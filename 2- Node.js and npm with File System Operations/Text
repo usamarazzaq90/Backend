@@ -1,0 +1,22 @@
+//Node.js Basics:
+
+//Introduction to Node.js
+
+not a programming languauge
+not a technology
+not a framework
+not a library
+
+It is JS runtime environment
+
+//Installation Node.js and npm
+
+node & npm:
+working with node and npm
+npm init -> package.json -> info about the project
+node basics usage
+
+//Working with modules
+//File system operations
+
+//Understanding HTTP module
