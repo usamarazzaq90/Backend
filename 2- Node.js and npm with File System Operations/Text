@@ -10,7 +10,6 @@ not a library
 It is JS runtime environment
 
 //Installation Node.js and npm
-
 node & npm:
 working with node and npm
 npm init -> package.json -> info about the project
@@ -20,3 +19,6 @@ node basics usage
 //File system operations
 
 //Understanding HTTP module
+protocol-> rules
+
+http -> protocol that we have to follow for communicating on the internet
