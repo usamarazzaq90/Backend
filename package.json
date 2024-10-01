@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node ./script.js",
+    "chacha": "echo \"this is chacha speaking\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Usama Razzaq",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "accessibility": "^6.0.4"
+  }
 }

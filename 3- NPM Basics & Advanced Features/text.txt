@@ -1,0 +1,24 @@
+// NPM Understanding
+npm -> node package manager
+installed in node js core -> module
+downloaded from npm -> package
+e.g., text to speech (google package in npm, "Accessibility")
+
+// Installing and uninstalling anything basics & advanced
+npm install packageName
+npm uninstall packageName
+npm install packageName@version  (for installing particular verion)
+
+// understanding node_modules
+
+// dependencies
+packages and packages' dependencies
+
+// devdependencies
+packages which will only useful in development, but after deployment/production we uninstall them.
+
+// scripts - understanding default scripts
+npm start  | npm run dev | npm run concurrent   ???
+We can create custom scripts for our usage
+
+npm run "---"  (For running custom scripts that we add in package.json)
