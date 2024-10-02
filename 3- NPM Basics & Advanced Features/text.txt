@@ -21,4 +21,4 @@ packages which will only useful in development, but after deployment/production 
 npm start  | npm run dev | npm run concurrent   ???
 We can create custom scripts for our usage
 
-npm run "---"  (For running custom scripts that we add in package.json)
+npm run "name"  (For running custom scripts that we add in package.json)

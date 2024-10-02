@@ -1,0 +1,6 @@
+//Express.js Framework:
+
+//Introduction to Express.js
+ express js is an npm package
+ framework (flow)
+ manages everything from receiving the request and giving back the response
