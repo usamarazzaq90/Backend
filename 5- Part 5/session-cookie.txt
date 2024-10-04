@@ -1,4 +1,4 @@
 session & cookie
 
 Data can be stored/saved in the browser frontend
-When we send request to the backend, that saved data will automatically send to the backend 
+When we send request to the backend, that saved data will automatically send to the backend
