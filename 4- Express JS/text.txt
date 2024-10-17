@@ -5,11 +5,11 @@
  framework (flow)
  manages everything from receiving the request and giving back the response
 
- //Seting up a basic Ecpress application
+ //Seting up a basic Express application
  //Routing
 
  //Middleware
- When server accepts request, if you interfere reqest in between to perform something, it is
+ When server accepts request, if you interfere request in between to perform something, it is
  middleware
 
  //Request and response handling
