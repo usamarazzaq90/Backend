@@ -1,0 +1,8 @@
+Data Storage:
+Types of DBS:
+    SQL
+    NoSQL --> Data in Objects way
+        e.g., Mongo DB 
+What and Why:
+    why-> to store the data 
+Terminologies: collections, documents, schemas, keys, models
