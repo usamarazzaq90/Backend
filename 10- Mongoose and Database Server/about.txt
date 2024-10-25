@@ -6,3 +6,17 @@ Types of DBS:
 What and Why:
     why-> to store the data 
 Terminologies: collections, documents, schemas, keys, models
+Hieararchy:
+    Database -> Collections -> Documents -> 
+
+CODE:
+ mongoose.connect  ->   database create 
+ model create      ->   collection create 
+ CREATE code       ->   document create 
+
+
+
+
+
+General Concept:
+    Backend-> Application Server (e.g. NodeJS) + Database Server (e.g. MongoDB/)
