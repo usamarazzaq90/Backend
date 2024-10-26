@@ -7,7 +7,7 @@ What and Why:
     why-> to store the data 
 Terminologies: collections, documents, schemas, keys, models
 Hieararchy:
-    Database -> Collections -> Documents -> 
+    Database -> Collections -> Documents
 
 CODE:
  mongoose.connect  ->   database create 
